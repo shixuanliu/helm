@@ -1,4 +1,4 @@
 image:
-  repository: "gitops"
+  repository: "spring-petclinic"
 
-replicas: 1
+replicas: 2
